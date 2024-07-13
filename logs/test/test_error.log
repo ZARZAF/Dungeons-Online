@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-02-16T12:53:39.316703600Z</date>
+  <millis>1708088019316</millis>
+  <nanos>703600</nanos>
+  <sequence>0</sequence>
+  <logger>logger.Logger</logger>
+  <level>SEVERE</level>
+  <class>logger.Logger</class>
+  <method>logError</method>
+  <thread>1</thread>
+  <message>Test error message</message>
+</record>
+</log>
